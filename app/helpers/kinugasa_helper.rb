@@ -1,0 +1,2 @@
+module KinugasaHelper
+end
